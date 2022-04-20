@@ -33,7 +33,7 @@ gem 'jbuilder'
 
 gem 'heroku'
 
-gem 'git'
+gem 'git', '>= 1.11.0'
 
 # Use unicorn as the web server
 # gem 'unicorn'
